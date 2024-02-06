@@ -1,0 +1,5 @@
+At first create an user then apply following command 
+1   adduser  
+2   passwd 
+
+usermod -s /sbin/nologin audit
